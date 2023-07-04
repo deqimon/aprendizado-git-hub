@@ -1,0 +1,1 @@
+Seus principais comandos são: echo, cd, ls, pwd, mkdir, rm, rm-rf, sudo, touch, cat, less, history, grep, cp, mv, clear, exit, e mais diversos outros.

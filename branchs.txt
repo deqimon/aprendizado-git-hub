@@ -1,0 +1,1 @@
+Branchs ou ramos servem para desenvolvermos features isoladas. É possível misturar as branchs usando o comando merge, com a branch master, que é a branch principal.

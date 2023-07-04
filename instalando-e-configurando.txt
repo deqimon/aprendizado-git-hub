@@ -1,0 +1,1 @@
+Podemos baixar o github pelo seu site original e selecionar se queremos baixá-lo em setup ou portátil, e selecionar qual versão de bits usamos.

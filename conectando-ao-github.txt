@@ -1,0 +1,1 @@
+Utilizamos o comando git push origin master para empurrar o projeto pro github, enquanto o git pull origin master é para baixar projetos do github.

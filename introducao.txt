@@ -1,0 +1,3 @@
+Git é uma sistema de controle de versão de arquivos. 
+Com ele podemos desenvolver projetos colaborativos com facilidade, e registrar diferentes modificações de um arquivo.
+Também permite recuperar uma versão específica e pode resolver diversos problemas.
